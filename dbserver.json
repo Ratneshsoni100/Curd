@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "Jayesh Raghav",
+      "age": "34",
+      "profession": "Doctor",
+      "id": "4c4b"
+    }
+  ],
+  "products": [
+    {
+      "productName": "refrigerator",
+      "brand": "Hitachi",
+      "id": "6cb5"
+    }
+  ]
+}
